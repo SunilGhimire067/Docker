@@ -1,3 +1,5 @@
 [user]
 	email = linus.vtcba@gmail.com
 	name = SunilGhimire067
+[push]
+	default = matching
